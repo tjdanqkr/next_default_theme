@@ -6,7 +6,6 @@ const Header = () => {
       <Link href="/">
         <a className="hover:underline">Blog</a>
       </Link>
-      <DarkModeButton></DarkModeButton>
     </h2>
   );
 };
